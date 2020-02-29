@@ -1,3 +1,5 @@
 jama.msi
 *.log
 excludeThis/
+*.orig
+
