@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Just This
 
 And some more
+
+### Copyright
+
+Git.Gatuno
