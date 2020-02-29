@@ -1,1 +1,3 @@
 jama.msi
+*.log
+excludeThis/
